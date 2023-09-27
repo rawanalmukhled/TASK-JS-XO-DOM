@@ -11,7 +11,7 @@ function winningAlert(winner) {
     // The code here will be exectued if you press on OK button that will pop on the window
   }
 }
-
+//XO GAME
 // SAMPLE CODE: This code fills the 1st and 9th button with X and O initially
 // ❗️ Delete this code once you are done testing
 // fillButton(1, "X");
